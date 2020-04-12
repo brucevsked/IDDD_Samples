@@ -4,3 +4,8 @@ build
 .project
 *.iml
 .idea
+iddd_identityaccess/.settings/*.*
+iddd_collaboration/.settings/*.*
+iddd_agilepm/.settings/*.*
+iddd_common/.settings/*.*
+.settings/*.*
